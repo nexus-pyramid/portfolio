@@ -1,0 +1,12 @@
+{
+  "name": "portfolio",
+  "version": "1.0",
+  "license": "",
+  "main": "",
+  "ignore": [],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "jquery": "^3.2.1",
+    "materialize": "^0.98.2"
+  }
+}
